@@ -5,3 +5,5 @@ git remote set-url origin --push https://github.com/RocketMap/RocketMap.git
 git pull
 ```
 This will set your remotes to pull from our repository. It is very important that you do this, otherwise you will have issues with git pulling in the future!
+
+Not working as of 2020
